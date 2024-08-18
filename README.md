@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamini T</h1>
-<h3 align="center">Passionate Fresher | Eager To Learn New Technologies | Innovating at the Intersection of Web Development and AII</h3>
+<h3 align="center">Passionate Fresher | Eager To Learn New Technologies | Innovating at the Intersection of Web Development and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=21itr047-kamini&label=Profile%20views&color=0e75b6&style=flat" alt="21itr047-kamini" /> </p>
 
